@@ -1,0 +1,5 @@
+{
+  "name": "OpsRunner",
+  "description": "A safety-first interface for executing operational Python scripts with mandatory dry-run verification.",
+  "requestFramePermissions": []
+}
